@@ -1,0 +1,499 @@
+{
+  "transactions": [
+    {
+      "date": "2024-02-11",
+      "transaction_amount": 55.3,
+      "customer_id": "10"
+    },
+    {
+      "date": "2024-02-12",
+      "transaction_amount": 61.7,
+      "customer_id": "10"
+    },
+    {
+      "date": "2024-02-24",
+      "transaction_amount": 145.6,
+      "customer_id": "7"
+    },
+    {
+      "date": "2024-03-06",
+      "transaction_amount": 67.4,
+      "customer_id": "4"
+    },
+    {
+      "date": "2024-03-24",
+      "transaction_amount": 68.1,
+      "customer_id": "3"
+    },
+    {
+      "date": "2024-04-02",
+      "transaction_amount": 112.35,
+      "customer_id": "9"
+    },
+    {
+      "date": "2024-04-09",
+      "transaction_amount": 134.9,
+      "customer_id": "1"
+    },
+    {
+      "date": "2024-04-09",
+      "transaction_amount": 48.65,
+      "customer_id": "5"
+    },
+    {
+      "date": "2024-04-14",
+      "transaction_amount": 23.15,
+      "customer_id": "5"
+    },
+    {
+      "date": "2024-04-14",
+      "transaction_amount": 71.8,
+      "customer_id": "8"
+    },
+    {
+      "date": "2024-04-21",
+      "transaction_amount": 38.9,
+      "customer_id": "3"
+    },
+    {
+      "date": "2024-04-27",
+      "transaction_amount": 66.8,
+      "customer_id": "3"
+    },
+    {
+      "date": "2024-05-20",
+      "transaction_amount": 91.2,
+      "customer_id": "2"
+    },
+    {
+      "date": "2024-06-04",
+      "transaction_amount": 138.5,
+      "customer_id": "7"
+    },
+    {
+      "date": "2024-06-07",
+      "transaction_amount": 26.2,
+      "customer_id": "1"
+    },
+    {
+      "date": "2024-06-22",
+      "transaction_amount": 8.5,
+      "customer_id": "6"
+    },
+    {
+      "date": "2024-06-24",
+      "transaction_amount": 82.1,
+      "customer_id": "2"
+    },
+    {
+      "date": "2024-06-25",
+      "transaction_amount": 14.25,
+      "customer_id": "6"
+    },
+    {
+      "date": "2024-06-28",
+      "transaction_amount": 30.75,
+      "customer_id": "8"
+    },
+    {
+      "date": "2024-07-02",
+      "transaction_amount": 95.75,
+      "customer_id": "4"
+    },
+    {
+      "date": "2024-07-03",
+      "transaction_amount": 88.3,
+      "customer_id": "2"
+    },
+    {
+      "date": "2024-07-03",
+      "transaction_amount": 15.4,
+      "customer_id": "6"
+    },
+    {
+      "date": "2024-07-11",
+      "transaction_amount": 109.85,
+      "customer_id": "9"
+    },
+    {
+      "date": "2024-08-08",
+      "transaction_amount": 92.4,
+      "customer_id": "2"
+    },
+    {
+      "date": "2024-08-27",
+      "transaction_amount": 118.45,
+      "customer_id": "9"
+    },
+    {
+      "date": "2024-09-16",
+      "transaction_amount": 87.9,
+      "customer_id": "2"
+    },
+    {
+      "date": "2024-09-27",
+      "transaction_amount": 59.9,
+      "customer_id": "10"
+    },
+    {
+      "date": "2024-10-03",
+      "transaction_amount": 10.6,
+      "customer_id": "6"
+    },
+    {
+      "date": "2024-10-11",
+      "transaction_amount": 122.15,
+      "customer_id": "9"
+    },
+    {
+      "date": "2024-10-21",
+      "transaction_amount": 86.5,
+      "customer_id": "2"
+    },
+    {
+      "date": "2024-11-07",
+      "transaction_amount": 44.5,
+      "customer_id": "5"
+    },
+    {
+      "date": "2024-11-11",
+      "transaction_amount": 36.6,
+      "customer_id": "3"
+    },
+    {
+      "date": "2024-11-15",
+      "transaction_amount": 103.2,
+      "customer_id": "4"
+    },
+    {
+      "date": "2024-11-25",
+      "transaction_amount": 78.25,
+      "customer_id": "3"
+    },
+    {
+      "date": "2024-12-02",
+      "transaction_amount": 101.6,
+      "customer_id": "4"
+    },
+    {
+      "date": "2024-12-17",
+      "transaction_amount": 33.7,
+      "customer_id": "3"
+    },
+    {
+      "date": "2024-12-20",
+      "transaction_amount": 22.65,
+      "customer_id": "1"
+    },
+    {
+      "date": "2024-12-21",
+      "transaction_amount": 143.8,
+      "customer_id": "7"
+    },
+    {
+      "date": "2024-12-23",
+      "transaction_amount": 43.8,
+      "customer_id": "5"
+    },
+    {
+      "date": "2024-12-31",
+      "transaction_amount": 37.2,
+      "customer_id": "1"
+    },
+    {
+      "date": "2025-01-11",
+      "transaction_amount": 54.85,
+      "customer_id": "10"
+    },
+    {
+      "date": "2025-01-17",
+      "transaction_amount": 56.7,
+      "customer_id": "10"
+    },
+    {
+      "date": "2025-01-26",
+      "transaction_amount": 149.99,
+      "customer_id": "7"
+    },
+    {
+      "date": "2025-02-15",
+      "transaction_amount": 119.3,
+      "customer_id": "9"
+    },
+    {
+      "date": "2025-02-23",
+      "transaction_amount": 46.95,
+      "customer_id": "5"
+    },
+    {
+      "date": "2025-02-27",
+      "transaction_amount": 83.25,
+      "customer_id": "2"
+    },
+    {
+      "date": "2025-03-04",
+      "transaction_amount": 140.95,
+      "customer_id": "7"
+    },
+    {
+      "date": "2025-03-19",
+      "transaction_amount": 16.75,
+      "customer_id": "6"
+    },
+    {
+      "date": "2025-03-25",
+      "transaction_amount": 97.65,
+      "customer_id": "4"
+    },
+    {
+      "date": "2025-03-29",
+      "transaction_amount": 9.95,
+      "customer_id": "6"
+    },
+    {
+      "date": "2025-04-08",
+      "transaction_amount": 80.95,
+      "customer_id": "2"
+    },
+    {
+      "date": "2025-04-15",
+      "transaction_amount": 142.3,
+      "customer_id": "7"
+    },
+    {
+      "date": "2025-04-15",
+      "transaction_amount": 69.25,
+      "customer_id": "8"
+    },
+    {
+      "date": "2025-05-01",
+      "transaction_amount": 136.75,
+      "customer_id": "7"
+    },
+    {
+      "date": "2025-05-06",
+      "transaction_amount": 104.6,
+      "customer_id": "4"
+    },
+    {
+      "date": "2025-05-07",
+      "transaction_amount": 147.25,
+      "customer_id": "7"
+    },
+    {
+      "date": "2025-05-12",
+      "transaction_amount": 52.45,
+      "customer_id": "10"
+    },
+    {
+      "date": "2025-05-16",
+      "transaction_amount": 65.3,
+      "customer_id": "3"
+    },
+    {
+      "date": "2025-06-08",
+      "transaction_amount": 49.15,
+      "customer_id": "5"
+    },
+    {
+      "date": "2025-06-14",
+      "transaction_amount": 105.3,
+      "customer_id": "4"
+    },
+    {
+      "date": "2025-06-18",
+      "transaction_amount": 127.4,
+      "customer_id": "4"
+    },
+    {
+      "date": "2025-06-21",
+      "transaction_amount": 18.95,
+      "customer_id": "1"
+    },
+    {
+      "date": "2025-06-21",
+      "transaction_amount": 11.8,
+      "customer_id": "6"
+    },
+    {
+      "date": "2025-07-01",
+      "transaction_amount": 25.4,
+      "customer_id": "1"
+    },
+    {
+      "date": "2025-07-13",
+      "transaction_amount": 76.25,
+      "customer_id": "8"
+    },
+    {
+      "date": "2025-07-30",
+      "transaction_amount": 89.5,
+      "customer_id": "2"
+    },
+    {
+      "date": "2025-08-05",
+      "transaction_amount": 21.6,
+      "customer_id": "1"
+    },
+    {
+      "date": "2025-08-16",
+      "transaction_amount": 98.6,
+      "customer_id": "2"
+    },
+    {
+      "date": "2025-08-22",
+      "transaction_amount": 31.5,
+      "customer_id": "8"
+    },
+    {
+      "date": "2025-08-24",
+      "transaction_amount": 125.9,
+      "customer_id": "9"
+    },
+    {
+      "date": "2025-08-27",
+      "transaction_amount": 50.75,
+      "customer_id": "5"
+    },
+    {
+      "date": "2025-09-02",
+      "transaction_amount": 28.85,
+      "customer_id": "8"
+    },
+    {
+      "date": "2025-09-11",
+      "transaction_amount": 116.7,
+      "customer_id": "9"
+    },
+    {
+      "date": "2025-09-15",
+      "transaction_amount": 99.2,
+      "customer_id": "4"
+    },
+    {
+      "date": "2025-09-28",
+      "transaction_amount": 29.95,
+      "customer_id": "8"
+    },
+    {
+      "date": "2025-10-01",
+      "transaction_amount": 84.4,
+      "customer_id": "2"
+    },
+    {
+      "date": "2025-10-07",
+      "transaction_amount": 39.45,
+      "customer_id": "1"
+    },
+    {
+      "date": "2025-10-07",
+      "transaction_amount": 19.85,
+      "customer_id": "1"
+    },
+    {
+      "date": "2025-10-13",
+      "transaction_amount": 12.75,
+      "customer_id": "3"
+    },
+    {
+      "date": "2025-10-13",
+      "transaction_amount": 53.6,
+      "customer_id": "10"
+    },
+    {
+      "date": "2025-10-19",
+      "transaction_amount": 40.9,
+      "customer_id": "5"
+    },
+    {
+      "date": "2025-10-22",
+      "transaction_amount": 41.5,
+      "customer_id": "5"
+    },
+    {
+      "date": "2025-10-25",
+      "transaction_amount": 148.15,
+      "customer_id": "7"
+    },
+    {
+      "date": "2025-10-27",
+      "transaction_amount": 58.4,
+      "customer_id": "10"
+    },
+    {
+      "date": "2025-10-27",
+      "transaction_amount": 7.5,
+      "customer_id": "6"
+    },
+    {
+      "date": "2025-11-14",
+      "transaction_amount": 35.15,
+      "customer_id": "3"
+    },
+    {
+      "date": "2025-11-28",
+      "transaction_amount": 63.5,
+      "customer_id": "3"
+    },
+    {
+      "date": "2025-12-01",
+      "transaction_amount": 121.5,
+      "customer_id": "9"
+    },
+    {
+      "date": "2025-12-03",
+      "transaction_amount": 27.3,
+      "customer_id": "1"
+    },
+    {
+      "date": "2025-12-15",
+      "transaction_amount": 5.99,
+      "customer_id": "6"
+    },
+    {
+      "date": "2025-12-18",
+      "transaction_amount": 42.75,
+      "customer_id": "5"
+    },
+    {
+      "date": "2025-12-22",
+      "transaction_amount": 45.23,
+      "customer_id": "1"
+    },
+    {
+      "date": "2026-01-03",
+      "transaction_amount": 114.75,
+      "customer_id": "9"
+    },
+    {
+      "date": "2026-01-06",
+      "transaction_amount": 74.2,
+      "customer_id": "10"
+    },
+    {
+      "date": "2026-01-11",
+      "transaction_amount": 72.35,
+      "customer_id": "8"
+    },
+    {
+      "date": "2026-01-20",
+      "transaction_amount": 107.85,
+      "customer_id": "4"
+    },
+    {
+      "date": "2026-01-30",
+      "transaction_amount": 13.2,
+      "customer_id": "6"
+    },
+    {
+      "date": "2026-02-06",
+      "transaction_amount": 131.2,
+      "customer_id": "7"
+    },
+    {
+      "date": "2026-02-09",
+      "transaction_amount": 31.85,
+      "customer_id": "8"
+    }
+  ]
+}
