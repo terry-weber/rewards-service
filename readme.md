@@ -61,13 +61,13 @@ The JSON file contains a list of customer transactions with the following schema
 | `customer_id` | String | Customer identifier ("1"-"10") |
 
 **Sample Data:**
-- 100 transactions spread over a 2-year period (2024-2026)
-- 10 unique customers
-- Transaction amounts range from $0 to $150
-
-**Sample Data 2:**
 - 300 transactions spread over a 2-year period (2024-2026)
 - 2 unique customers
+- Transaction amounts range from $0 to $150
+- 
+**Sample Data 2:**
+- 100 transactions spread over a 2-year period (2024-2026)
+- 10 unique customers
 - Transaction amounts range from $0 to $150
 
 ## REST API Endpoints
@@ -183,7 +183,3 @@ curl http://localhost:8080/transactions/1?year=2024&quarter=1
 ```bash
 curl http://localhost:8080/rewards/5?year=2025&quarter=2
 ```
-
-## License
-
-This is a toy project for educational purposes.
